@@ -67,7 +67,7 @@ The report contains **3 pages**:
 
 ## 💡 Learning Source
 
-- Video Tutorial by [**Data with Decision**](https://www.youtube.com/@DataWithDecision)
+- Video Tutorial by [**Data with Decision**](https://www.youtube.com/@datalab365)
 - Page navigation part was **not included** in the tutorial.  
   I learned how to create page navigation buttons using **ChatGPT**, which explained it clearly step-by-step.
 
