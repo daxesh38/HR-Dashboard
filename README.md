@@ -5,6 +5,9 @@
 
 This Power BI project presents a complete **HR Department Dashboard** that helps visualize and analyze key HR metrics including employee demographics, service years, promotion eligibility, retrenchment risks, job satisfaction, and more.
 
+# Project Link
+https://github.com/daxesh38/HR-Dashboard/blob/main/HR%20Dashboard.pbix
+
 ---
 
 ## 📌 Project Overview
