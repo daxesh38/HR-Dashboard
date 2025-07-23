@@ -87,7 +87,8 @@ The report contains **3 pages**:
 <img width="1437" height="866" alt="Image" src="https://github.com/user-attachments/assets/1eeaec91-1931-4dd2-8d7d-3d5530251364" />
 
 ### 🔹 Action Page  
-![Action Page](./screenshots/action.png)
+<img width="1430" height="807" alt="Image" src="https://github.com/user-attachments/assets/c4fe8704-1e2b-4f1d-b0e0-1ca699038572" />
+
 
 ### 🔹 Details Page  
 ![Details Page](./screenshots/details.png)
