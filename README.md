@@ -84,7 +84,7 @@ The report contains **3 pages**:
 ## 📸 Dashboard Preview
 
 ### 🔹 Home Page  
-![Home Page](./screenshots/home.png)
+<img width="1437" height="866" alt="Image" src="https://github.com/user-attachments/assets/1eeaec91-1931-4dd2-8d7d-3d5530251364" />
 
 ### 🔹 Action Page  
 ![Action Page](./screenshots/action.png)
