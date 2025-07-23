@@ -67,19 +67,8 @@ The report contains **3 pages**:
 
 ## 💡 Learning Source
 
-- Video Tutorial by [**Data with Decision**](https://www.youtube.com/@datalab365)
-- Page navigation part was **not included** in the tutorial.  
-  I learned how to create page navigation buttons using **ChatGPT**, which explained it clearly step-by-step.
-
----
-
-## 📂 Files Included
-
-- `HR Dashboard.pbix` – Main Power BI project file  
-- `README.md` – Project documentation  
-- Screenshots of dashboard pages (optional)
-
----
+- Video Tutorial by [**Data with Decision**]([https://www.youtube.com/@datalab365](https://www.youtube.com/watch?v=0BKlUySopU4&t=2405s))
+- https://www.youtube.com/watch?v=gFKNSmO8oyA
 
 ## 📸 Dashboard Preview
 
@@ -91,26 +80,17 @@ The report contains **3 pages**:
 
 
 ### 🔹 Details Page  
-![Details Page](./screenshots/details.png)
-
+<img width="1432" height="843" alt="Image" src="https://github.com/user-attachments/assets/0203f025-12f4-4fa4-a070-2cbe264d8aef" />
 ---
 
 ## 🙌 Special Thanks
 
 - **Data with Decision** for the tutorial  
 - **ChatGPT (by OpenAI)** for guiding on Power BI navigation buttons  
-- Power BI Community & Forums for support
 
 ---
 
 ## 📬 Connect with Me
 
-📧 Email: [your-email@example.com]  
-🌐 LinkedIn: [Your LinkedIn Profile]  
-📁 Portfolio: [Link if available]
-
----
-
-## 📌 License
-
-This project is for educational and portfolio purposes only.
+📧 Email: [daxeshdataanalyst@gmail.com]  
+🌐 LinkedIn: [https://www.linkedin.com/in/daxesh-patel-0a451a294/]  
